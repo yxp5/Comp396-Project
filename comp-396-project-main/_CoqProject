@@ -1,0 +1,6 @@
+-Q . Comp396
+
+-arg -w -arg -notation-overridden
+
+Syntax.v
+Rules.v
